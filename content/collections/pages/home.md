@@ -3,9 +3,9 @@ id: home
 blueprint: pages
 title: Home
 template: home
-author: d7a54b4c-44cf-4200-a564-59708e401653
+author: d5799731-bae0-4b13-878b-aad1a07f0be1
 updated_by: d5799731-bae0-4b13-878b-aad1a07f0be1
-updated_at: 1668946077
+updated_at: 1668946103
 ---
 ## Welcome to your new brand Statamic site!9
 
