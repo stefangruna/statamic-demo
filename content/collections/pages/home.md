@@ -5,7 +5,7 @@ title: Home
 template: home
 author: d5799731-bae0-4b13-878b-aad1a07f0be1
 updated_by: d5799731-bae0-4b13-878b-aad1a07f0be1
-updated_at: 1668950010
+updated_at: 1668950131
 ---
 ## Welcome to your new brand Statamic site!12
 
